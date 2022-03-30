@@ -78,7 +78,7 @@ var Game = function(){
 				div.style.left = '96px';
 				div.style.position = 'absolute';
 				div.style.zIndex = 9999;
-				div.innerHTML = '作者blog: <a href="http://www.alloyteam.com/author/tat-svenzeng/" target="_blank">http://www.alloyteam.com/author/tat-svenzeng/</a>'
+				div.innerHTML = '作者blog: <a href="https://www.bornforthis.cn/" target="_blank">https://www.bornforthis.cn/</a>'
 				document.body.appendChild( div );
 
 	
